@@ -1,9 +1,0 @@
-config.ini
-*.pyc
-*.log
-node_modules
-react-native-packager-cache*
-haste-amp-react-native-packager*
-.idea
-.vscode
-.ipynb_*
