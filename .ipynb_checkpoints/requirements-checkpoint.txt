@@ -17,7 +17,7 @@ Cython==0.27.3
 decorator==4.1.2
 empyrical==0.3.4
 entrypoints==0.2.3
-Flask==0.12.2
+Flask==1.0
 Flask-RESTful==0.3.6
 html5lib==1.0.1
 idna==2.6
